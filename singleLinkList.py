@@ -50,8 +50,10 @@ class SingleLinkList():
     def delFirst(self):  # 删除第一个元素
         if self.size == 0:
             raise ValueError('delError!')
+        tempNode = self.head.next
         self.head.next = self.head.next.next
         self.size -= 1
+        return tempNode
 
     def delLast(self):  # 删除最后一个元素
         if self.size == 0:
