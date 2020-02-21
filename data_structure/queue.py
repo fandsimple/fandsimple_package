@@ -22,9 +22,9 @@
     1、线程池、数据库连接池
     2、还有一些消息队列等等
 '''
+from data_structure import SingleLinkList
 
-from singleLinkList import SingleLinkList
-from singleLinkList import LinkNode
+from data_structure import LinkNode
 import json
 
 

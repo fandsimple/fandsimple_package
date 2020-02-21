@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
-from singleLinkList import SingleLinkList
+from data_structure import SingleLinkList
 
 
 def reverse(singleLinkList):  # 单链表反转

@@ -34,7 +34,7 @@
 
 '''
 
-from singleLinkList import SingleLinkList
+from data_structure import SingleLinkList
 import json
 
 
