@@ -18,7 +18,7 @@ URL = 'https://github.com/fandsimple/fandsimple_package'
 EMAIL = 'fand1024@163.com'
 AUTHOR = 'fanding'
 REQUIRES_PYTHON = '>=2.7.0'
-VERSION = '1.0.2'
+VERSION = '1.0.3'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
@@ -103,7 +103,8 @@ setup(
     author_email=EMAIL,
     python_requires=REQUIRES_PYTHON,
     url=URL,
-    packages=find_packages(exclude=["tests", "*.tests", "*.tests.*", "tests.*"]),
+    # packages=find_packages(exclude=["tests", "*.tests", "*.tests.*", "tests.*"]),
+    packages=find_packages(),
     # If your package is a single module, use this instead of 'packages':
     # py_modules=['mypackage'],
 
