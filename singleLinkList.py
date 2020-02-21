@@ -107,6 +107,10 @@ class SingleLinkList():
             count += 1
         return -1
 
+    def changeToCycle(self):
+        tempNode = self.find(self.size)
+        tempNode.next = self.head
+
     def __str__(self):
         data = {
             'data': [],

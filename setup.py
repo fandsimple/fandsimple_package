@@ -18,12 +18,11 @@ URL = 'https://github.com/fandsimple/fandsimple_package'
 EMAIL = 'fand1024@163.com'
 AUTHOR = 'fanding'
 REQUIRES_PYTHON = '>=2.7.0'
-VERSION = '0.0.1'
+VERSION = '1.0.2'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
     # 'json', 'maya', 'records',
-    'json',
 ]
 
 # What packages are optional?

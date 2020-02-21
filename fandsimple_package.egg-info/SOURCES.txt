@@ -1,0 +1,6 @@
+README.md
+setup.py
+fandsimple_package.egg-info/PKG-INFO
+fandsimple_package.egg-info/SOURCES.txt
+fandsimple_package.egg-info/dependency_links.txt
+fandsimple_package.egg-info/top_level.txt
