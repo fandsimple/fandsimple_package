@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d538666-20dc-44d5-adb1-217745765653" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/fandsimple_package-1.0.2.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fandsimple_package-1.0.2.tar.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fandsimple_package.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fandsimple_package.egg-info/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fandsimple_package.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fandsimple_package.egg-info/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/data_structure/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/data_structure/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/data_structure/singleLinkList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/data_structure/singleLinkListDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/data_structure/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fandsimple_package-1.0.2-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fandsimple_package-1.0.2-py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fandsimple_package-1.0.2.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fandsimple_package.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fandsimple_package.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fandsimple_package.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fandsimple_package.egg-info/top_level.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleLinkList.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/singleLinkList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleLinkListDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/singleLinkListDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/stack.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -179,23 +184,7 @@
             <path>
               <item name="fandsimple_package" type="b2602c69:ProjectViewProjectNode" />
               <item name="fandsimple_package" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fandsimple_package" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fandsimple_package" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fandsimple_package" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fandsimple_package" type="462c0819:PsiDirectoryNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fandsimple_package" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fandsimple_package" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -394,14 +383,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fist.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -466,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -480,6 +454,21 @@
           <folding>
             <element signature="e#43#72#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
