@@ -3,3 +3,5 @@
 
 
 from .sort import *
+from .recursion import *
+from .query import *
