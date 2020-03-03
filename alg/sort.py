@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 '''
-冒泡排序：
-插入排序：
-选择排序：
+冒泡排序：略
+插入排序：略
+选择排序：略
 归并排序：
     时间复杂度分析：
         参考代码逻辑，利用递归思想解决时间复杂度。
@@ -149,6 +149,7 @@ def quickSort(dataList, n):  # 快速排序
     空间复杂度：原地排序
     稳定排序：不稳定
     '''
+
     def partition(dataList, startIndex, endIndex):  # 将一个元素寻找到排序后的位置
         last = dataList[endIndex]
         j = startIndex  # j索引前方的值都比last小
@@ -169,6 +170,40 @@ def quickSort(dataList, n):  # 快速排序
         quickSortTemp(dataList, postion + 1, endIndex)
 
     quickSortTemp(dataList, 0, n - 1)
+
+
+# 堆排序
+def heapSort(dataList, n):
+    '''
+    时间复杂度：O(nlogn)
+    空间复杂度：O(1)
+    稳定性：不稳定
+    '''
+    def heapify(dataList, n, i):  # 堆化函数
+        if len(dataList) == 0:
+            return
+        max = i
+        while True:
+            if i * 2 <= n and dataList[i] < dataList[i * 2]:
+                max = i * 2
+            if (i * 2 + 1) <= n and dataList[max] < dataList[i * 2 + 1]:
+                max = i * 2 + 1
+            if max == i:
+                break
+            dataList[i], dataList[max] = dataList[max], dataList[i]
+            i = max
+
+    def createHeap(dataList, n): # 建堆
+        for i in range((n // 2), 0, -1):
+            heapify(dataList, n, i)
+
+    createHeap(dataList, n)
+    for i in range(n, 0, -1): # 调用以上函数进行排序
+        dataList[1], dataList[i] = dataList[i], dataList[1]
+        heapify(dataList, i-1, 1)
+
+
+
 
 
 def bucketSort(dataList, n):  # 桶排序
@@ -222,7 +257,7 @@ def radixSort(dataList, n):
 
 
 if __name__ == '__main__':
-    dataList = [1, 2, 4, 3, 8, 6, 5, 3]
+    dataList = [10, 2, 4, 3, 8, 6, 5, 3]
 
     # bubbleSort(dataList, len(dataList))
     # print(dataList)
@@ -236,8 +271,13 @@ if __name__ == '__main__':
     # mergeSort(dataList, len(dataList))
     # print(dataList)
 
-    quickSort(dataList, len(dataList))
-    print(dataList)
+    # quickSort(dataList, len(dataList))
+    # print(dataList)
 
     # countSort(dataList, len(dataList))
+    # print(dataList)
+
+    # 堆排序测试
+    # dataList = [None, 2, 4, 3, 8, 6, 5, 3] # 注意第一个不存储元素
+    # heapSort(dataList, len(dataList)-1)
     # print(dataList)

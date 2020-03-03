@@ -7,6 +7,9 @@
     跳表的一种实现方法。
     跳表中储存的是正整数，并且储存的是不重复的。
     Author: Wenru
+
+    实现方式：
+        添加多级索引，以空间换时间。
 """
 
 from typing import Optional
