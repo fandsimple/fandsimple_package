@@ -38,7 +38,7 @@ from data_structure import SingleLinkList
 import json
 
 
-class Stack():  # 栈的链式实现
+class Stack(): # 栈的链式实现
     def __init__(self):
         self.linkList = SingleLinkList()
         self.size = self.linkList.size
@@ -66,44 +66,12 @@ class Stack():  # 栈的链式实现
         return json.dumps(data)
 
 
-def delCountry(name):
-    templateListLeft = set('([【〔')
-    templateListRight = set(')]】〕')
-    stack = Stack()
-    flag = False
-    for item in name:
-
-        if item in templateListLeft:
-            stack.push(item)
-            flag = True
-        if not flag:
-            stack.push(item)
-        if item in templateListRight:
-            stack.pop()
-            flag = False
-    resultList = [None] * stack.size
-    for i in range(stack.size-1, -1 ,-1):
-        tempItem = stack.pop()
-        resultList[i] = tempItem.data
-
-    return ''.join(resultList)
-
-
-
-
-
-
-
 if __name__ == '__main__':
-    # stack = Stack()
-    # print(stack)
-    # stack.push(12)
-    # stack.push(13)
-    # stack.push(14)
-    # print(stack)
-    # print(stack.pop().data)
-    # print(stack)
-
-
-    name = '惠特曼[美]，[英]'
-    print(delCountry(name))
+    stack = Stack()
+    print(stack)
+    stack.push(12)
+    stack.push(13)
+    stack.push(14)
+    print(stack)
+    print(stack.pop().data)
+    print(stack)

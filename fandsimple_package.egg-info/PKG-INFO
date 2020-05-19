@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: fandsimple-package
+Version: 0.0.5
+Summary: fandsimple create data struct
+Home-page: https://github.com/fandsimple/fandsimple_package
+Author: fanding
+Author-email: fand1024@163.com
+License: MIT
+Description: 
+        # fandsimple_package
+        自己创造的轮子
+        
+        ## 数据结构
+        ## 排序算法
+        
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=2.7.0
+Description-Content-Type: text/markdown
