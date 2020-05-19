@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d538666-20dc-44d5-adb1-217745765653" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/zmq_strong/zmq_models/request_replay/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alg/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/alg/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alg/spiderUseful/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alg/spiderUseful/pcc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alg/spiderUseful/pccDetail.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zmq_strong/zmq_model.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,30 +14,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/fandsimple_package$leetCode.coverage" NAME="leetCode Coverage Results" MODIFIED="1584278442065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
-    <SUITE FILE_PATH="coverage/fandsimple_package$demo.coverage" NAME="demo Coverage Results" MODIFIED="1589715252124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daikao" />
     <SUITE FILE_PATH="coverage/fandsimple_package$query.coverage" NAME="query Coverage Results" MODIFIED="1582614589652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
     <SUITE FILE_PATH="coverage/fandsimple_package$question_1.coverage" NAME="question_1 Coverage Results" MODIFIED="1583386407751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycode" />
     <SUITE FILE_PATH="coverage/fandsimple_package$sort.coverage" NAME="sort Coverage Results" MODIFIED="1583480709470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$sub2.coverage" NAME="sub2 Coverage Results" MODIFIED="1589867586555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$Twisted_Trial_in_baseServer_py.coverage" NAME="Twisted Trial in baseServer.py Coverage Results" MODIFIED="1589269888802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$baseCliect__1_.coverage" NAME="baseCliect (1) Coverage Results" MODIFIED="1589270073485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$stack.coverage" NAME="stack Coverage Results" MODIFIED="1584764433618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$server.coverage" NAME="server Coverage Results" MODIFIED="1589866978867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/request_replay" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1582355981898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$baseCliect.coverage" NAME="baseCliect Coverage Results" MODIFIED="1589269559063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$work.coverage" NAME="work Coverage Results" MODIFIED="1589869315443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$question_2.coverage" NAME="question_2 Coverage Results" MODIFIED="1583315610603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycode" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$pub.coverage" NAME="pub Coverage Results" MODIFIED="1589867536104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$work1.coverage" NAME="work1 Coverage Results" MODIFIED="1589869305467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$sub1.coverage" NAME="sub1 Coverage Results" MODIFIED="1589867584037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$leetCode.coverage" NAME="leetCode Coverage Results" MODIFIED="1584278442065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$demo.coverage" NAME="demo Coverage Results" MODIFIED="1589715252124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daikao" />
     <SUITE FILE_PATH="coverage/fandsimple_package$queue.coverage" NAME="queue Coverage Results" MODIFIED="1582293134578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fandsimple_package$firstLogging.coverage" NAME="firstLogging Coverage Results" MODIFIED="1589767277091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loggingDemo" />
     <SUITE FILE_PATH="coverage/fandsimple_package$graph.coverage" NAME="graph Coverage Results" MODIFIED="1583309315605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$client.coverage" NAME="client Coverage Results" MODIFIED="1589869323488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
     <SUITE FILE_PATH="coverage/fandsimple_package$heap.coverage" NAME="heap Coverage Results" MODIFIED="1583240577655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/fandsimple_package$baseServer.coverage" NAME="baseServer Coverage Results" MODIFIED="1589270062756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong" />
-    <SUITE FILE_PATH="coverage/fandsimple_package$Twisted_Trial_in_baseServer_py.coverage" NAME="Twisted Trial in baseServer.py Coverage Results" MODIFIED="1589269888802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong" />
-    <SUITE FILE_PATH="coverage/fandsimple_package$baseCliect__1_.coverage" NAME="baseCliect (1) Coverage Results" MODIFIED="1589270073485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong" />
     <SUITE FILE_PATH="coverage/fandsimple_package$singleLinkListDemo.coverage" NAME="singleLinkListDemo Coverage Results" MODIFIED="1582256159120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fandsimple_package$stack.coverage" NAME="stack Coverage Results" MODIFIED="1584764433618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/fandsimple_package$pcc.coverage" NAME="pcc Coverage Results" MODIFIED="1582877110721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg/spiderUseful" />
     <SUITE FILE_PATH="coverage/fandsimple_package$test.coverage" NAME="test Coverage Results" MODIFIED="1583481058330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fandsimple_package$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1582355981898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
-    <SUITE FILE_PATH="coverage/fandsimple_package$baseCliect.coverage" NAME="baseCliect Coverage Results" MODIFIED="1589269559063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$client1.coverage" NAME="client1 Coverage Results" MODIFIED="1589869327545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
     <SUITE FILE_PATH="coverage/fandsimple_package$createPyc.coverage" NAME="createPyc Coverage Results" MODIFIED="1583173000325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycode" />
     <SUITE FILE_PATH="coverage/fandsimple_package$pccDetail.coverage" NAME="pccDetail Coverage Results" MODIFIED="1582877205347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg/spiderUseful" />
-    <SUITE FILE_PATH="coverage/fandsimple_package$question_2.coverage" NAME="question_2 Coverage Results" MODIFIED="1583315610603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycode" />
     <SUITE FILE_PATH="coverage/fandsimple_package$strMatch.coverage" NAME="strMatch Coverage Results" MODIFIED="1583562500203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
     <SUITE FILE_PATH="coverage/fandsimple_package$singleLinkList.coverage" NAME="singleLinkList Coverage Results" MODIFIED="1582127641883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fandsimple_package$skipList.coverage" NAME="skipList Coverage Results" MODIFIED="1582614020690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1589869300401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -57,17 +63,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="firstLogging.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/loggingDemo/firstLogging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/singleLinkListDemo.py" />
         <option value="$PROJECT_DIR$/fandStack.py" />
         <option value="$PROJECT_DIR$/singleLinkList.py" />
         <option value="$PROJECT_DIR$/stack.py" />
@@ -140,6 +135,18 @@
         <option value="$PROJECT_DIR$/daikao/test.js" />
         <option value="$PROJECT_DIR$/daikao/demo.py" />
         <option value="$PROJECT_DIR$/loggingDemo/firstLogging.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_model.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/request_replay/server.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/request_replay/client.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe/pub.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe/sub.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe/sub2.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe/sub1.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/work.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/server.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/client.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/client1.py" />
+        <option value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/work1.py" />
       </list>
     </option>
   </component>
@@ -152,7 +159,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -165,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,15 +179,11 @@
               <item name="fandsimple_package" type="b2602c69:ProjectViewProjectNode" />
               <item name="fandsimple_package" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fandsimple_package" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fandsimple_package" type="462c0819:PsiDirectoryNode" />
-              <item name="loggingDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,6 +202,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zmq_strong/zmq_models/request_replay" />
+      <recent name="$PROJECT_DIR$/zmq_strong/zmq_models" />
       <recent name="$PROJECT_DIR$/pycode" />
       <recent name="$PROJECT_DIR$/data_structure" />
     </key>
@@ -216,8 +220,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.firstLogging">
-    <configuration name="baseCliect (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.client1">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fandsimple_package" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,18 +229,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/baseCliect.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="baseServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="client1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fandsimple_package" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,18 +248,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/baseServer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/client1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fandsimple_package" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,18 +267,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daikao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daikao/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="firstLogging" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="work" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fandsimple_package" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,45 +286,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingDemo/firstLogging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/work.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Twisted Trial in baseServer.py" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+    <configuration name="work1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fandsimple_package" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/zmq_strong/baseServer.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/work1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Twisted Trial in baseServer.py" />
-      <item itemvalue="Python.baseCliect (1)" />
-      <item itemvalue="Python.baseServer" />
-      <item itemvalue="Python.demo" />
-      <item itemvalue="Python.firstLogging" />
+      <item itemvalue="Python.server (1)" />
+      <item itemvalue="Python.work" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.work1" />
+      <item itemvalue="Python.client1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.firstLogging" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.baseCliect (1)" />
-        <item itemvalue="Python.baseServer" />
-        <item itemvalue="Python tests.Twisted Trial in baseServer.py" />
+        <item itemvalue="Python.client1" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.work" />
+        <item itemvalue="Python.work1" />
+        <item itemvalue="Python.server (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -335,6 +344,14 @@
       <option name="presentableId" value="Default" />
       <updated>1582127536547</updated>
     </task>
+    <task id="LOCAL-00001" summary="zmq应用模式">
+      <created>1589866516768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589866516768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -367,16 +384,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917705" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33915213" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4476309" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.4064838" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29177058" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18025751" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19326684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14949928" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -391,12 +408,65 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14949928" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.4064838" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917705" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4476309" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.19326684" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zmq应用模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="zmq应用模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -404,52 +474,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pycode/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg/strMatch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1608">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg/query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="49" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg/sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1608">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pycode/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg/strMatch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1608">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg/spiderUseful/pcc.py" />
-    <entry file="file://$PROJECT_DIR$/alg/spiderUseful/pccDetail.py" />
-    <entry file="file://$PROJECT_DIR$/fist.md" />
-    <entry file="file://$PROJECT_DIR$/demo.py" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/372345470/builtins.py" />
     <entry file="file://$USER_HOME$/.pyenv/versions/3.6.7/lib/python3.6/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -641,20 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zmq_strong/mq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zmq_strong/baseCliect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daikao/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -687,16 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#43#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zmq_strong/baseServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -709,8 +709,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loggingDemo/firstLogging.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/baseCliect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/baseServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/request_replay/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/request_replay/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/mq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe/sub2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="e#43#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe/sub1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe/pub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#43#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#43#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/client1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/work.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" lean-forward="true" selection-start-line="3" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/work1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="3" selection-end-line="11" selection-end-column="51" />
         </state>
       </provider>
     </entry>
