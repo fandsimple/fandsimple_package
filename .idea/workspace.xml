@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d538666-20dc-44d5-adb1-217745765653" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitmap/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bitmap/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +21,7 @@
     <SUITE FILE_PATH="coverage/fandsimple_package$baseCliect__1_.coverage" NAME="baseCliect (1) Coverage Results" MODIFIED="1589270073485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong" />
     <SUITE FILE_PATH="coverage/fandsimple_package$stack.coverage" NAME="stack Coverage Results" MODIFIED="1584764433618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/fandsimple_package$server.coverage" NAME="server Coverage Results" MODIFIED="1589866978867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/request_replay" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1589940172904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bitmap" />
     <SUITE FILE_PATH="coverage/fandsimple_package$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1582355981898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
     <SUITE FILE_PATH="coverage/fandsimple_package$baseCliect.coverage" NAME="baseCliect Coverage Results" MODIFIED="1589269559063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
     <SUITE FILE_PATH="coverage/fandsimple_package$work.coverage" NAME="work Coverage Results" MODIFIED="1589869315443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
@@ -29,6 +31,7 @@
     <SUITE FILE_PATH="coverage/fandsimple_package$sub1.coverage" NAME="sub1 Coverage Results" MODIFIED="1589867584037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq_strong/zmq_models/publish_subscribe" />
     <SUITE FILE_PATH="coverage/fandsimple_package$leetCode.coverage" NAME="leetCode Coverage Results" MODIFIED="1584278442065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alg" />
     <SUITE FILE_PATH="coverage/fandsimple_package$demo.coverage" NAME="demo Coverage Results" MODIFIED="1589715252124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daikao" />
+    <SUITE FILE_PATH="coverage/fandsimple_package$register.coverage" NAME="register Coverage Results" MODIFIED="1589940277535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugin" />
     <SUITE FILE_PATH="coverage/fandsimple_package$queue.coverage" NAME="queue Coverage Results" MODIFIED="1582293134578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fandsimple_package$firstLogging.coverage" NAME="firstLogging Coverage Results" MODIFIED="1589767277091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loggingDemo" />
     <SUITE FILE_PATH="coverage/fandsimple_package$graph.coverage" NAME="graph Coverage Results" MODIFIED="1583309315605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
@@ -62,14 +65,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bitmap/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -107,9 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/singleLinkList.py" />
-        <option value="$PROJECT_DIR$/stack.py" />
-        <option value="$PROJECT_DIR$/queue.py" />
         <option value="$PROJECT_DIR$/demo.py" />
         <option value="$PROJECT_DIR$/data_structure/queue.py" />
         <option value="$PROJECT_DIR$/data_structure/singleLinkListDemo.py" />
@@ -158,6 +155,9 @@
         <option value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/client1.py" />
         <option value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/work1.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/bitmap/demo.py" />
+        <option value="$PROJECT_DIR$/bitmap/__init__.py" />
+        <option value="$PROJECT_DIR$/plugin/register.py" />
       </list>
     </option>
   </component>
@@ -170,7 +170,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -202,7 +202,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -231,7 +231,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.client1">
+  <component name="RunManager" selected="Python.register">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fandsimple_package" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bitmap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bitmap/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fandsimple_package" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,7 +289,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="register" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fandsimple_package" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,12 +297,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugin/register.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,39 +327,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="work1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="fandsimple_package" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zmq_strong/zmq_models/Parallel_Pipeline/work1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.server (1)" />
       <item itemvalue="Python.work" />
       <item itemvalue="Python.client" />
-      <item itemvalue="Python.work1" />
       <item itemvalue="Python.client1" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.register" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.register" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.client1" />
         <item itemvalue="Python.client" />
         <item itemvalue="Python.work" />
-        <item itemvalue="Python.work1" />
-        <item itemvalue="Python.server (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -395,16 +395,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917705" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4476309" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35785535" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.2543641" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19326684" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24314214" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
@@ -486,21 +486,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/372345470/builtins.py" />
-    <entry file="file://$USER_HOME$/.pyenv/versions/3.6.7/lib/python3.6/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/3.6.7/lib/python3.6/site-packages/requests/sessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="506" column="18" lean-forward="true" selection-start-line="506" selection-start-column="18" selection-end-line="506" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.pyenv/versions/3.6.7/lib/python3.6/site-packages/requests/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
@@ -831,6 +816,27 @@
             <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitmap/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="2" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin/register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitmap/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
