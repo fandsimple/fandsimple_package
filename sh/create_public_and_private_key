@@ -1,0 +1,4 @@
+# 生成私钥
+openssl genrsa -passout pass:123456 -out private.pem 1024
+# 生成公钥
+openssl rsa -passin pass:123456 -pubout -in private.pem -out public.pem

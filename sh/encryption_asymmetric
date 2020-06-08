@@ -1,0 +1,6 @@
+# 加密命令
+openssl  rsautl -encrypt -pubin -inkey 公钥文件 -in 要加密的数据文件 -out 加密后的结果文件
+
+# 解密命令
+openssl rsautl -decrypt -inkey 私钥文件 -in 被加密后的文件 -out 解密后的文件
+
